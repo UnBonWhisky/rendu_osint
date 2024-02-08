@@ -24,3 +24,14 @@ L'emplacement exacte de la capture est de [cet endroit](https://www.google.com/m
 
 ---
 
+## Récupération des metadata de l'image
+
+En utilisant [exiftools](https://exif.tools/) On peut remarquer certains champs dans les metadata comme les Copyrights ou encore l'Owner :
+
+![image](https://github.com/ffouqueray/rendu_osint/assets/65244389/dc947ee3-f6c4-43e5-9420-a363803129b4)
+
+Avec ces informations, nous avons donc l'emplacement de `Twitter` ainsi qu'un Owner qui est `CipherCatz`.  
+En recherchant ceci sur twitter, nous trouvons donc le compte de [Cipher Catz](https://twitter.com/CipherCatz)
+
+---
+
